@@ -5,4 +5,4 @@
 bin
 *.out
 target
-src/main/resources/application.properties
+./housemoney/src/main/resources/application.properties
