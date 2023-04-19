@@ -2,7 +2,4 @@
 .project
 .settings
 .metadata
-bin
-*.out
-target
-*.properties
+application.properties
