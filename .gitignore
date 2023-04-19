@@ -1,8 +1,0 @@
-.classpath
-.project
-.settings
-.metadata
-bin
-*.out
-target
-housemoney/src/main/resources/application.yml
