@@ -1,10 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 package controller;
 
 public class UsersController {
 
 }
 =======
+=======
+>>>>>>> 1c545ef16f075ae098cff6fc14bb886e4d55322d
 package controller;
 
 import javax.validation.Valid;
@@ -69,4 +72,7 @@ public class UsersController {
 	}
 
 }
+<<<<<<< HEAD
 >>>>>>> origin/master
+=======
+>>>>>>> 1c545ef16f075ae098cff6fc14bb886e4d55322d
