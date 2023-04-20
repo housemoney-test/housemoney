@@ -1,2 +1,8 @@
+.classpath
+.project
+.settings
 .metadata
+bin
+*.out
+target
 application.properties
